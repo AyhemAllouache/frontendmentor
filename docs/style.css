@@ -9,7 +9,7 @@ body {
 .main-content {
   position: relative;
   background-color: hsl(0, 0%, 100%);
-  margin: 40px auto;
+  margin: 15vh auto;
   height: 460px;
   width: 290px;
   border-radius: 17px;
@@ -50,4 +50,11 @@ body {
   padding: 7px 20px;
   top: 360px;
   text-align: center;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
